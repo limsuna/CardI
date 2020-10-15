@@ -9,3 +9,19 @@ IDE : jupyter notebook, android studio + insomnia platform
 Cardi : 어플리케이션 코드
 server : 모델 + flask 서버 연결 코드
 
+[ 전체 구조 ]
+<br></br>
+<img width="700" alt="Cardi Architecture" src="https://user-images.githubusercontent.com/31878337/96068128-316dc600-0ed6-11eb-89e4-ef4106037bc3.png">
+
+[ 어플리케이션 결과 ]
+<br></br>
+<img width="700" alt="Application_result" src="https://user-images.githubusercontent.com/31878337/96068148-3df21e80-0ed6-11eb-9876-ed141c533592.png">
+
+[ 서버 연결 결과 ] 
+<br></br>
+<img width="700" alt="flask" src="https://user-images.githubusercontent.com/31878337/96068167-4a767700-0ed6-11eb-8b77-00fdef6ef179.png">
+
+
+
+
+... 이미지 생성 코드 추후 추가 ...
